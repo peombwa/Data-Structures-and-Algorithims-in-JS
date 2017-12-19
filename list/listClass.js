@@ -92,7 +92,7 @@ function prev(){
 }
 
 function next() { 
-    if (this.pos < this.listSize-1) { 
+    if (this.pos < this.listSize) { 
         ++this.pos;
     } 
 }
