@@ -2,6 +2,6 @@
   "name": "",
   "version": "",
   "dependencies": {
-    "prompt": "^1.1.0"
+    "prompt": "^1.2.0"
   }
 }
